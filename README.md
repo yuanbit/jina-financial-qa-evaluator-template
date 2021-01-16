@@ -21,7 +21,7 @@ which is a production-ready BERT-based Financial Question Answering System built
 we add the evaluation pipeline into the QA system by designing a Flow to evaluate the search results with 
 Precision and Mean Reciprocal Rank (MRR). We will evaluate the search results before and after reranking with FinBERT-QA. Here is overview of the Evaluation Flow:
 
-**🦉 Please refer to this [tutorial](https://github.com/jina-ai/_homepage/blob/posts-financial-qa-tutorial/_posts/2020-12-14-financial-qa-tutorial.md)
+**🦉 Please refer to this [tutorial](https://towardsdatascience.com/search-engine-evaluation-in-jina-856616eb7f6f)
 for a step-by-step guide and detailed explanations.**
 
 <p align="center">
